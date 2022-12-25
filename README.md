@@ -1,9 +1,9 @@
 ### 
-The glass is neither half empty, nor half full. It has several genomes! <br>
-Hi there, I am Ishi, an undergraduate student pursuing **Biotechnology Engineering** from Delhi Technological University (formerly DCE) <br>
-I'm currently working on a few interesting Bioinformatics researches and methodologies, focused on **Molecular Docking (ADMET) and BLAST**. <br>
-Previously, I have worked upon **Web Development and Database Development** projects based on HTML, CSS, JS, SQL and Python. <br>
-Immensely passionate about solving problems on **Medicine and Healthcare** using knowledge of **Biotechnology** and **Computer Science**. <br>
+The glass is neither half empty, nor half full. It has several genomes!🧬 <br>
+Hi there, I am Ishi, an undergraduate student pursuing **Biotechnology Engineering** from Delhi Technological University (formerly DCE) 🎓<br>
+I'm currently working on a few interesting Bioinformatics researches and methodologies, focused on **Molecular Docking (ADMET) and BLAST**.🖥️ <br>
+Previously, I have worked upon **Web Development and Database Development** projects based on HTML, CSS, JS, SQL and Python. 💻 <br>
+Immensely passionate about solving problems on **Medicine and Healthcare** using knowledge of **Biotechnology** and **Computer Science**.🔬 <br>
 
 <!--
 **ishithakur/ishithakur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
